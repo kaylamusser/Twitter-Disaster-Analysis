@@ -1,2 +1,2 @@
-# kaylamusser.project.io
+# kaylamusser.project.github.io
 Group Member: Korin Wheaton
